@@ -1,0 +1,41 @@
+
+
+.enmedio{
+	width: 300px;
+	height: 300px;
+	background-color: rgba(23, 23, 12, 0.6);
+	
+	
+}
+.lado{
+	width: 300px;
+	height: 330px;
+	background-color: lightskyblue;
+	margin-left: 50px;
+	box-shadow: 5px 8px 28px blueviolet;
+
+
+
+}
+.otro{
+    width: 400px;
+    height: 330px;
+    margin-top: -330px;
+    margin-right: 50px;
+
+}
+.lado label{
+	font-family: courier;
+	font-size: 16px;
+	color: gray;
+}
+.lado input{
+	width: 250px;
+	height: 30px;
+	border: solid 2px black;
+}
+.lado button{
+	width: 255px;
+	height: 30px;
+	background-color: rgba(23, 23, 12, 0.6);
+}
